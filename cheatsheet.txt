@@ -1,0 +1,12 @@
+Terminal Commands
+1. pwd = present working directory
+2. cat <file name> = view the contents of a file
+3. ls  <directory name> = list contents of a directory
+4. cd  = go home
+5. cd <directory name> = change directory
+6. gedit <file name> & = edit file in gedit
+7. git clone --config="http.proxy=http://danielle2039:steph@192.168.2.1:8080" 	 http://github.com/danielle2039-cmis/danielle2039-cmis-wd.git (downloads file)
+8. git add <file name> = makes git aware of the file 
+9. git commit -m "commit comment" = snapshot of work, saves work for future
+10. git push = final save, sends work back to website
+
