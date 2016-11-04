@@ -1,0 +1,16 @@
+1. First come to class and clone your repository. You can do this by opening terminal and pasting in your clone command. The command looks like this
+--config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+
+2. After you have cloned your repository, you must get into your repository directory. You can do this by typing the command cd <directory name>. In my case I would type cd danielle2039-cmis-wd. 
+
+3. Now that you are in your repository directory you can create and edit a file. To do this you type in the command, gedit <file name> &. Since I want to create a file called file.txt, I would type gedit file.txt &. (The & lets you use terminal and gedit at the same time)
+
+4. This allows me to edit a document in gedit. Once I have finished editing file.txt, click save and close the docuement. 
+
+5. However, you are not done yet. Go back to terminal and type the command git add <file name>. I would type git add file.txt. This command makes git aware of the file. 
+
+6. Next, type the command git commit -m "commit comment". This is like a snapshot of your work. In the "commint comment" you describe what the file contents are. 
+
+7. To upload your file to github and have it saved finally in your repository, you must type the command git push. Once you have type the command, you will need to fill in your username for github, and your password. 
+
+8. After that is completed and uploaded correctly to your repository in github, you may leave class. 
