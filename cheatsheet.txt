@@ -9,4 +9,6 @@ Terminal Commands
 8. git add <file name> = makes git aware of the file 
 9. git commit -m "commit comment" = snapshot of work, saves work for future
 10. git push = final save, sends work back to website
+11. python -m SimpleHTTPServer - Start the development server
+
 
