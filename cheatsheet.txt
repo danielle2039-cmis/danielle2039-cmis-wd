@@ -11,4 +11,29 @@ Terminal Commands
 10. git push = final save, sends work back to website
 11. python -m SimpleHTTPServer - Start the development server
 
+CODE FOR WEBSITE
+(<> open tag, </> close tag)
+- <!doctype html>  = portal to website 
+- <html> put under previous code
+- </html> put at the end of your code
+- <head>  parent element 
+- <title> child element of <head>
+- <meta charset+"utf-8/>  important code
+- <body>  parent element 
+- <p>   child element of <body> 
+
+1. <p> = paragraph
+2. <h1> = header
+3. <footer> <address> = footer element of website
+4. <nav> = navigation 
+sftp Commands
+
+1. sftp username@cmis-hsteacher - mine would be sftp danielle2039@cmis-hsteacher
+2. ls - same as terminal
+3. cd - same as terminal
+4. prepend a command with ! to execute it on local
+5. put <filename> - upload a file
+6. get <filename> - download a file
+
+
 
