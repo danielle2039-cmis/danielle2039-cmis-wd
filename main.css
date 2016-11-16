@@ -1,18 +1,47 @@
 html {
 	color: #f03080;
-	font-family: arial;
+	font-family: jsMath-bbold10 Bold;
 	background-color: lightslategray;
 }
 
 h1{ 
-	color: lightblue;
+	color:black;
 	background-color:lightskyblue;
 	text-decoration:underline;
-	background-blend-mode: color-dodge:
+	border-style: solid;
+	border-color:black;
+	font-size: 59px;
+	font-style:italic;
+	text-shadow: 2px 2px 8px black;
+	
 }
 
-h2
+h2 { 
+	color: black;
+	letter-spacing: 6px; 
+	font-size: 47px;
+	text-transform:uppercase;
+	text-shadow: 0 0 20px lightskyblue;
+	background-color: lightslategrey; 
+	border-color: black;
+	border-style: solid; 
+	border-width: medium;
+	background-image:url("http://plusquotes.com/images/quotes-img/flower-25.jpg");
+} 
 
-p
+p {
+	color: black;
+	position: auto;
+	right: -60px;
+	width: 400px;
+	height:20px;
+	border-color: black;
+	border-style: dotted;
+	
+	
+	
+} 
 
-footer
+footer {
+	position: relative;
+} 
