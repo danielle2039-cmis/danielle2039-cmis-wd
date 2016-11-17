@@ -1,47 +1,98 @@
 html {
+	/* Properties Used
+Color 
+Font-family 
+background-color 
+Text -decoration
+Border style
+Border color 
+Font size
+Font style 
+Text shadow 
+Letter spacing 
+Position 
+Right
+Width
+height 
+top
+Background-image
+background-size
+Text - transform
+Opacity 
+Background- position
+*/
+/* 
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+*Use at least 4 different units to set sizes of various aspects of your webpage.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.*/
 	color: #f03080;
 	font-family: jsMath-bbold10 Bold;
 	background-color: lightslategray;
+	background-image:url("http://s1.favim.com/orig/150915/black-cute-flower-flowers-Favim.com-3301690.jpg");
+	background-size:1100px 900px;
+	background-position: 50% 10%;
 }
 
 h1{ 
-	color:black;
-	background-color:lightskyblue;
+	color:white;
+	font-family: purisa;
 	text-decoration:underline;
 	border-style: solid;
-	border-color:black;
-	font-size: 59px;
+	border-color:white;
+	font-size: 0.6in;
 	font-style:italic;
-	text-shadow: 2px 2px 8px black;
+	text-shadow: 8px 8px 8px #de8000;
 	
 }
 
 h2 { 
 	color: black;
+	font-family: purisa;
 	letter-spacing: 6px; 
-	font-size: 47px;
+	font-size: 3em;
 	text-transform:uppercase;
 	text-shadow: 0 0 20px lightskyblue;
-	background-color: lightslategrey; 
+	background-color:#de8000; 
 	border-color: black;
 	border-style: solid; 
 	border-width: medium;
-	background-image:url("http://plusquotes.com/images/quotes-img/flower-25.jpg");
+	position: relative;
+	top: -20px;
+	right: -60px;
+	width: 300px;
+	height:65px;
+	opacity: 0.9;
 } 
 
 p {
-	color: black;
-	position: auto;
-	right: -60px;
+	color: snow; 
+	font-size: 0.5cm;
+	position: relative;
+	top: -120px;
+	right: -400px;
 	width: 400px;
-	height:20px;
-	border-color: black;
+	height:40px;
+	border-color: #de8000;
 	border-style: dotted;
-	
-	
-	
 } 
 
 footer {
+	color:white;
 	position: relative;
-} 
+	top: 400px;
+	font
+	
+} 	
