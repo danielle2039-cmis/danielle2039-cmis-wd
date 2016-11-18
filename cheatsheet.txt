@@ -30,10 +30,14 @@ sftp Commands
 
 1. sftp username@cmis-hsteacher - mine would be sftp danielle2039@cmis-hsteacher
 2. ls - same as terminal
-3. cd - same as terminal
+3. cd - same as terminal (once in sftp cd public_html)
 4. prepend a command with ! to execute it on local
 5. put <filename> - upload a file
 6. get <filename> - download a file
+7. To view your work from the production server type cmis-hsteacher/~danielle2039/ <filename> into the google search. 
 
-
-
+CSS
+declaration - ex: html { 
+		       }
+properites  - ex: color:red; 
+for css to work add <link rel="stylesheet" href="main.css" type="text/css"> under the 'meta' part of the html file you are adding the css elements to. 
