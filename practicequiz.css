@@ -1,0 +1,65 @@
+html{
+	font-family: arial;
+	color:blue;
+	border-color: yellow;
+	border-bottom: thick dashed yellow;
+	
+	
+}
+
+h1 {
+	font-family: arial;
+	font-style:italic;
+	color: yellow; 
+	background-color:green;
+	border-color: yellow;
+	border-bottom: thick dashed yellow;
+	font-weight:bold;
+}
+p{
+	border-color: yellow;
+	background-color:red;
+	border-bottom: thick dashed yellow;
+	border-bottom-width:15px;
+	position: relative;
+	top: -22px;
+	font-style:italic;
+	font-weight:bold;
+	font-stretch: expanded;
+	line-height:3;
+}
+h2 {
+	color: yellow;
+	background-color: purple;
+	position:relative;
+	top:-20px;
+	border-left: thick double orange;
+	border-right:thick double orange;
+}
+h3{
+	color:purple:
+	background-color: yellow;
+	border-top: thick dashed purple;
+
+
+}
+
+p1{ 
+	background-color: white;
+}
+h4{
+}
+p2{
+}
+h5{
+}
+h6 {
+}
+p3{
+}
+h7{
+}
+p4{
+}
+footer{
+}
