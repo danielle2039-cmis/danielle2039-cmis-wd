@@ -2,64 +2,70 @@ html{
 	font-family: arial;
 	color:blue;
 	border-color: yellow;
-	border-bottom: thick dashed yellow;
-	
-	
+	background-color: white;
+	margin: 0.2cm 0.2cm 0.2cm 0.2cm;
 }
 
 h1 {
-	font-family: arial;
+	font-family: impact;
 	font-style:italic;
 	color: yellow; 
 	background-color:green;
 	border-color: yellow;
 	border-bottom: thick dashed yellow;
 	font-weight:bold;
+	position: relative;
+	top: 10px;
 }
 p{
+	line-height:2;
+	position: relative;
+	top: -10px;
+
+}
+h4{
+	font-family:impact;
 	border-color: yellow;
 	background-color:red;
 	border-bottom: thick dashed yellow;
-	border-bottom-width:15px;
+	border-width: 15px;
 	position: relative;
-	top: -22px;
+	top: -12px;
 	font-style:italic;
 	font-weight:bold;
-	font-stretch: expanded;
 	line-height:3;
+	
 }
+
 h2 {
 	color: yellow;
 	background-color: purple;
-	position:relative;
-	top:-20px;
-	border-left: thick double orange;
-	border-right:thick double orange;
+
 }
 h3{
-	color:purple:
+	color:purple;
 	background-color: yellow;
 	border-top: thick dashed purple;
-
-
+	position: relative;
+	top:-5px;
+	border-width:-35px;
 }
-
-p1{ 
-	background-color: white;
-}
-h4{
-}
-p2{
-}
-h5{
-}
-h6 {
-}
-p3{
-}
-h7{
-}
-p4{
+main{
+	border-left: groove;
+	border-right:groove;
+	border-color:orange;
+	border-width: 10px;
+	position:relative;
+	top:-20px;
 }
 footer{
+	border-style: solid;
+	border-right-width: thick;
+	border-right-color:blue;
+	border-left-width: thick;
+	border-right-color: red;
+	border-top: dotted black;
+	border-bottom-color:white;
+
 }
+
