@@ -1,0 +1,78 @@
+html{
+	font-family: times-new-roman;
+	color:red;
+	background-color: pink;
+}	
+h1 {
+	font-family: times-new-roman;
+	font-size: 65px;
+	text-decoration:underline;
+	text-decoration-color:black; 
+	background-color:lightblue;
+	border-bottom: thick solid black;
+	position: relative;
+	top: 10px;
+}
+body{
+	border-left:45px red dotted;
+}
+header{
+	background-color:lightblue;
+}
+
+
+h6{
+	font-family:arial;
+	color:blue;
+	font-size:15px;
+	text-decoration:underline;
+	background-color:lightblue;
+	border-bottom: 45px dotted red;
+	border-top:3px dotted green;
+	position: relative;
+	top: 0px;
+}
+
+h2 {
+	color: white;
+	background-color: blue;
+	font-family:times-new-roman;
+
+}
+	
+p{ 
+	color:blue;
+	border-top:5px dotted green;
+}
+
+h3{
+	
+	color: white;
+	background-color: blue;
+	font-family:times-new-roman;
+}
+h4{
+	color:black;
+	border-bottom:pink;
+	background-color:pink;
+
+}
+h5{
+	color:black;
+}
+main{
+	border:groove;
+	border-color:yellow;
+	border-width: 10px;
+	position:relative;
+	top:-20px;
+}
+footer{
+	
+	color: blue;
+	background-color: pink;
+	font-family:times-new-roman;
+	font-size:45px;
+	font-style:normal;
+}
+
