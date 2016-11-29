@@ -64,12 +64,14 @@ h1{
 	font-size: 0.6in;
 	font-style:italic;
 	text-shadow: 8px 8px 8px #de8000;
+	position: relative;
+	top: -18px;
 	width: 950px;
 	height:90px;
 	align-content:center;
 }
 
-h2 { 
+h2, h3 { 
 	color: black;
 	font-family: purisa;
 	letter-spacing: 6px; 
@@ -88,23 +90,48 @@ h2 {
 	opacity: 0.9;
 } 
 
-p {
-	color: snow; 
+h2{
+position: relative;
+	top: -50px;
+}
+h3 {
+position: relative;
+	top: 0px;
+width: 650px;
+right: -60px;
+}
+nav, ul {
+	position: relative;
+	top: -20px;
+	color: white;
+	font-family: pursia;
+	font-size:25px;
+	border: none;
+}
+
+main p {
+	color: white; 
 	font-family:purisa;
+	font-style:bold;
 	font-size: 0.5cm;
 	position: relative;
-	top: 250px;
+	top: -30px;
 	right: -60px;
-	width: 400px;
-	height:100px;
+	width: 900px;
+	height:70px;
 	border-color: #de8000;
 	border-style: dotted;
 } 
-
+ul{
+	font-family:purisa;
+	font-size: 0.5cm;
+	position: relative;
+	right: -60px;
+}
 footer {
 	color:white;
 	position: relative;
-	top: 400px;
+	top: -10px;
 	font-family:purisa;
 	border-color:white;
 	border-style: solid;	
