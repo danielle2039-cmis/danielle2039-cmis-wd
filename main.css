@@ -54,6 +54,8 @@ cm
 	cursor: alias;
 	padding: 0cm 2cm 3cm 0.3cm;
 }
+a    {color:white; background-color:transparent; text-decoration:none;}
+a {color:white; background-color:transparent; text-decoration:none}
 
 h1{ 
 	color:white;
@@ -112,7 +114,6 @@ nav, ul {
 main p {
 	color: white; 
 	font-family:purisa;
-	font-style:bold;
 	font-size: 0.5cm;
 	position: relative;
 	top: -60px;
@@ -124,8 +125,9 @@ main p {
 } 
 ul{
 	font-family:purisa;
-	font-size: 0.5cm;
+	font-size: 15px;
 	position: relative;
+	top: -60px;
 	right: -60px;
 }
 footer {
