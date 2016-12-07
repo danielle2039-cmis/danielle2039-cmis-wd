@@ -77,7 +77,7 @@ h2, h3 {
 	color: black;
 	font-family: purisa;
 	letter-spacing: 6px; 
-	font-size: 3em;
+	font-size: 15px;
 	text-transform:uppercase;
 	text-shadow: 0 0 20px lightskyblue;
 	background-color:#de8000; 
@@ -85,26 +85,27 @@ h2, h3 {
 	border-style: solid; 
 	border-width: medium;
 	position: relative;
-	top: -20px;
+	top: 0px;
 	right: -60px;
-	width: 300px;
+	width: 550px;
 	height:65px;
 	opacity: 0.9;
 } 
 
 h2{
 position: relative;
-	top: -40px;
+	top: -50px;
 }
 h3 {
 position: relative;
-	top: -30px;
-width: 650px;
+	top: -20px;
+width: 400px;
 right: -60px;
+height: 60px;
 }
 nav, ul {
 	position: relative;
-	top: 20px;
+	top: -40px;
 	color: white;
 	font-family: pursia;
 	font-size:25px;
@@ -127,14 +128,20 @@ ul{
 	font-family:purisa;
 	font-size: 15px;
 	position: relative;
-	top: -60px;
+	top: -10px;
 	right: -60px;
 }
 footer {
 	color:white;
 	position: relative;
-	top: -10px;
+	top: -20px;
 	font-family:purisa;
 	border-color:white;
 	border-style: solid;	
 } 	
+ol {
+font-family:purisa;
+	font-size: 15px;
+	color:white;
+	top: -70px;
+} 
