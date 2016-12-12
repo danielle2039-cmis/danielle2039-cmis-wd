@@ -1,43 +1,54 @@
 html{
 	background-image:url("1-night-snow-texture.jpg"); 
 	font-family:meera; 
-	position:relative;
-	right:-60px;
 	color:black;
 } 
 
 main {
 	background: white;
 	width: 1000px;
-	background-position:center;
-	right: -300px;
-	margin: 1.5cm 4cm 4cm 4cm;
+	margin-top: 1cm;
+	margin-right: 2cm; 
+	margin-left: 7cm;
+	margin-bottom: 1cm;
 }
 
 h1{ 
 	color: black; 
 	font-size: 75px;
-	
+	margin: 2px;
+	padding: 2px 2px 2px 2px; 
+	text-align: center;
 }
 
 
-
-
-
-}
-img {
-	position: relative;
-	right:100px;
-
-}
-h2 {
-	position: relative;	
-	
+ul li {
+	font-size: 45px;
 }
 
-p{
-position:relative;
-font-size: 45px;
+p {
+	font-size: 45px;
+}
+
+a {
+	color: black; 
+	font-size: 35px;
+
+}
+
+h1, h2 { 
+	font-size: 65px;
+
+}
+
+footer{
+	color: white;
+	font-size: 25px; 
+	border: white solid 3px;
+	width:170px;
+	height:25px;
+	text-align: center;
+	top: -100px
 
 }
 
